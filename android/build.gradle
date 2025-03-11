@@ -23,6 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 34
+    namespace "com.wangyng.better_page_turn"
 
     defaultConfig {
         minSdkVersion 24
