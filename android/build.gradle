@@ -26,5 +26,6 @@ android {
 
     defaultConfig {
         minSdkVersion 24
-    }
+        namespace "com.wangyng.better_page_turn"
+    }    
 }
